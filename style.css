@@ -217,19 +217,18 @@ opacity: 0;
 
 }
 
-.message-error {
+#error , #error1 , #error2 , #error3 {
 display: flex;  
 justify-content: flex-end;
 margin-right: 3.5rem;
 margin-top: -0.5rem;
 
-
+color: red;
 font-style: italic;
 color: hsl(0, 100%, 74%) ;
 font-size: 0.6rem;
 
 }
-
 
 
 
